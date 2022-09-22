@@ -4,7 +4,7 @@
 </h1>
 
 
-<h3 align="center">Aspiring Blockchain Developer</h3>
+<h3 align="center">Aspiring Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vengence7&label=Profile%20views&color=0e75b6&style=flat" alt="vengence7" /> </p>
 
