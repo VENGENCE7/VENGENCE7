@@ -139,7 +139,32 @@
     <td align="center" width="96">
          <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
      <br>SQL-Lite
-    </td>
+    </td>  
+    <td align="center" width="96">
+         <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="40" height="40"></a>
+     <br>TypeScript
+    </td> 
+    <td align="center" width="96">
+      <a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" alt="ECMAScript 6" width="40" height="40"></a>
+     <br> ES6
+    </td> 
+     <td align="center" width="96">
+         <a href="https://expressjs.com/" title="Express"><img src="https://user-images.githubusercontent.com/86911386/194831064-65cb7460-d296-4546-abd3-5ab77fc988be.png" alt="Express" width="40" height="40"></a>
+     <br>Express JS
+    </td>   <td align="center" width="96">
+         <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="40" height="40"></a>
+     <br>MongoDB
+    </td>   <td align="center" width="96">
+         <a href="https://vitejs.dev/" title="Vite"><img src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" alt="Vite" width="40" height="40"></a>
+     <br>Vite JS
+    </td>  
+    <td align="center" width="96">
+         <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="40" height="40"></a>
+     <br>NPM
+    </td>  <td align="center" width="96">
+         <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="40" height="40"></a>
+     <br>Docker
+    </td>  
 <!--  
     <td align="center" width="96">
          <a><img> </a> 
