@@ -165,9 +165,19 @@
          <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="40" height="40"></a>
      <br>Docker
     </td>  
+    <td align="center" width="96">
+         <a><img src="https://user-images.githubusercontent.com/25181517/190887639-d0ba4ec9-ddbe-45dd-bea1-4db83846503e.png" alt="Chakra UI" width="40" height="40"> </a> 
+     <br>Chakra UI
+    </td> 
+    <tr>
+    <td align="center" width="96">
+         <a><img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node JS" width="40" height="40"> </a> 
+     <br>Node JS
+    </td> 
+    </tr>
 <!--  
     <td align="center" width="96">
-         <a><img> </a> 
+         <a><img src="" alt="Chakra UI" width="40" height="40"> </a> 
      <br>name
     </td>        -->
     </tr>
