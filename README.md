@@ -8,19 +8,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vengence7&label=Profile%20views&color=0e75b6&style=flat" alt="vengence7" /> </p>
 
-- 🔭 I’m currently working on **Decentralised Blockchain Library and fullstack development.**
+- 🔭 I’m currently working on **fullstack development.**
 
-- 🌱 I’m currently learning **Smart contracts,IPFS,Spring Boot and CRED apps.**
+- 🌱 I’m currently learning **AWS,Smart contracts,IPFS and Chakra UI**
 
-- 👯 I’m looking to collaborate on **small projects and developing Dapps.**
+- 👯 I’m looking to collaborate on **projects and developing Dapps.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VENGENCE7](https://github.com/VENGENCE7)
 
-- 💬 Ask me about **CRED,Blockchain,SQL,development in Java & Python.**
+- 💬 Ask me about **CRED,Blockchain,SQL,development in Java,node JS & Python.**
 
 - 📫 How to reach me **bhavish007anand@gmail.com**
 
-- ⚡ Fun fact **Fun and chilling guy who loves to read & listen about spirituality,life journeys,history,mythologies and space science.**
+- ⚡ Fun fact **Fun and chilling guy who loves to read & listen about spirituality,life journeys,geo-politics,bio-tech,history,mythologies and space science.**
 
 <br/>
 
