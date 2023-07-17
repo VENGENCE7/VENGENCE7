@@ -2,32 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=dank+mono&color=77D970&lines=Hi,+There!+👋;I'm+Bhavish....;Nice+to+meet+you!&center=true&size=35">
 </h1>
 
-
 <h2 align="center">Full Stack Developer</h2>
 
-![](https://komarev.com/ghpvc/?username=vengence7&color=blueviolet&style=for-the-badge)
-<p align="center">
-<table align="center">
-    <tr align="center">
-        <td align="center"><a href="https://bhavish-portfolio.vercel.app/">    
-    
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-</a></td>
-        <td align="center"><a href="https://linkedin.com/in/bhavish-anand-2113a6206">
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-</a></td>
-    <td align="center"><a href="https://www.hackerrank.com/bhavish_anand">
-
-![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-</a></td>
-    <td align="center"><a href="https://auth.geeksforgeeks.org/user/bhavish007anand/practice">
-
-![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
-</a></td>
-    </tr>
-</table>
-</p>
+![ViewBadge](https://komarev.com/ghpvc/?username=vengence7&color=blueviolet&style=for-the-badge)
 
 - 🔭 I’m currently working on **Fullstack Development.**
 
@@ -45,6 +22,21 @@
 
 <br/>
 
+<p align="center">
+      <a href="https://bhavish-portfolio.vercel.app/">    
+        <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
+      </a>
+      <a href="https://linkedin.com/in/bhavish-anand-2113a6206">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+      <a href="https://www.hackerrank.com/bhavish_anand">
+        <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
+      </a>
+      <a href="https://auth.geeksforgeeks.org/user/bhavish007anand/practice">
+        <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GeeksForGeeks">
+      </a>  
+</p>
+<hr>
 <h2 align="center">🔥 Languages, Frameworks, Tools & Favorite tech 🔥</h2>
 <br/>
 
