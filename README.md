@@ -190,19 +190,27 @@
 
 <p align=center>
     
-<div align=center>
-<img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=vengence7&theme=react&border=61dafb&hide_border=true" alt="vengence7" />
-<img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=vengence7&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-</div>
-
-<br><br><br><br><br><br><br><br><br>
+<br>
 
 <div align=center>
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vengence7&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vengence7&theme=vision-friendly-dark)](https://git.io/streak-stats)
+<br><br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vengence7&theme=vision_friendly_dark)
+<br><br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vengence7&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vengence7&theme=vision_friendly_dark)
+<br><br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vengence7&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vengence7&theme=vision_friendly_dark&utcOffset=8)
 </div>
 
 <br>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=vengence7&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
 
 </p>
+
+
+<!--🦶FOOTER--> 
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+    
