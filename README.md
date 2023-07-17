@@ -1,14 +1,35 @@
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=dank+mono&color=77D970&lines=Hi,+There!+👋;I'm+Bhavish....;Nice+to+meet+you!&center=true&size=35">
 </h1>
 
 
-<h3 align="center">Aspiring Developer</h3>
+<h2 align="center">Full Stack Developer</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vengence7&label=Profile%20views&color=0e75b6&style=flat" alt="vengence7" /> </p>
+![](https://komarev.com/ghpvc/?username=vengence7&color=blueviolet&style=for-the-badge)
+<p align="center">
+<table align="center">
+    <tr align="center">
+        <td align="center"><a href="https://bhavish-portfolio.vercel.app/">    
+    
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+</a></td>
+        <td align="center"><a href="https://linkedin.com/in/bhavish-anand-2113a6206">
 
-- 🔭 I’m currently working on **fullstack development.**
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+</a></td>
+    <td align="center"><a href="https://www.hackerrank.com/bhavish_anand">
+
+![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+</a></td>
+    <td align="center"><a href="https://auth.geeksforgeeks.org/user/bhavish007anand/practice">
+
+![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
+</a></td>
+    </tr>
+</table>
+</p>
+
+- 🔭 I’m currently working on **Fullstack Development.**
 
 - 🌱 I’m currently learning **AWS,Smart contracts,IPFS and Chakra UI**
 
@@ -20,30 +41,7 @@
 
 - 📫 How to reach me **bhavish007anand@gmail.com**
 
-- ⚡ Fun fact **Fun and chilling guy who loves to read & listen about spirituality,life journeys,geo-politics,bio-tech,history,mythologies and space science.**
-
-<br/>
-
-<table align="center">
-<h2 align="left">Connect with me:</h2>
-<br/>
-<tr>
-    <td align="center"><code>
-        <a href="https://linkedin.com/in/bhavish-anand-2113a6206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavish-anand-2113a6206" height="50" width="40" />
-    </a></code></td>
-    <td align="center"><code>
-<a href="https://www.hackerrank.com/bhavish_anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhavish_anand" height="50" width="40" />
-              </a></code></td>
-    <td align="center"><code>
-<a href="https://www.instagram.com/bhavish._.anand/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhavish_anand" height="50" width="40" />
-              </a></code></td>
-</tr>
-<tr>
-  <td align="center"><code><a href="https://linkedin.com/in/bhavish-anand-2113a6206" title="reach" target="_blank" >Linkedin</a></code></td>
-  <td align="center"><code><a href="https://www.hackerrank.com/bhavish_anand" title="reach" target="_blank" >HackerRank</a></code></td>
-  <td align="center"><code><a href="https://www.instagram.com/bhavish._.anand/" title="reach">Instagram</a></code></td>
-  </tr>    
-  </table>
+- ⚡ **Fun and chilling guy who loves to read & listen about spirituality,life journeys,geo-politics,bio-tech,history,mythologies and space science.**
 
 <br/>
 
