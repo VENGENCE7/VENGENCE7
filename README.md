@@ -93,7 +93,7 @@
       <br>Bash
     </td>
     <td align="center" width="96">
-     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap" width="40" height="40"/> </a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
@@ -163,7 +163,39 @@
     <td align="center" width="96">
          <a><img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node JS" width="40" height="40"> </a> 
      <br>Node JS
-    </td> 
+    </td>
+        <td align="center" width="96">
+         <a><img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" width="40" height="40"> </a> 
+     <br>Postman
+    </td>
+        <td align="center" width="96">
+         <a><img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" width="40" height="40"> </a> 
+     <br>AWS
+    </td>
+        <td align="center" width="96">
+         <a><img src="https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png" alt="Linux Mint" width="40" height="40"> </a> 
+     <br>Linux Mint
+    </td>
+        <td align="center" width="96">
+         <a><img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" width="40" height="40"> </a> 
+     <br>GCP
+    </td>
+        <td align="center" width="96">
+         <a><img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" width="40" height="40"> </a> 
+     <br>Material UI
+    </td>
+    <td align="center" width="96">
+         <a><img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" width="40" height="40"> </a> 
+     <br>Firebase
+    </td>
+    <td align="center" width="96">
+         <a><img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="RESP Api" width="40" height="40"> </a> 
+     <br>REST Api
+    </td>
+        <td align="center" width="96">
+         <a><img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Nextjs" width="40" height="40"> </a> 
+     <br>Next js
+    </td>
     </tr>
 <!--  
     <td align="center" width="96">
