@@ -37,7 +37,7 @@
       </a>  
 </p>
 <hr>
-<h2 align="center">🔥 Languages, Frameworks, Tools & Favorite tech 🔥</h2>
+<h2 align="center">🔥 Languages, Frameworks, Tools & Tech I Have Worked With 🔥</h2>
 <br/>
 
 <table align="center">
@@ -51,8 +51,8 @@
     <br>Java
     </td>
     <td align="center" width="96">
-     <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-     <br>SpringBoot
+     <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="github" width="40" height="40"/> </a>
+     <br>GitHub
     </td>
     <td align="center" width="96">
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
@@ -169,7 +169,7 @@
      <br>Postman
     </td>
         <td align="center" width="96">
-         <a><img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" width="40" height="40"> </a> 
+         <a><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AWS-Dark.svg" alt="AWS" width="40" height="40"> </a> 
      <br>AWS
     </td>
         <td align="center" width="96">
@@ -197,6 +197,42 @@
      <br>Next js
     </td>
     </tr>
+    <td align="center" width="96">
+         <a><img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" width="40" height="40"> </a> 
+     <br>Jupyter Notebook
+    </td>
+     <td align="center" width="96">
+         <a><img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" width="40" height="40"> </a> 
+     <br>Tailwind CSS
+    </td>  
+     <td align="center" width="96">
+         <a><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/85880a3a-e65b-4e4b-a102-6c3f225b9aba" alt="Pug" width="40" height="40"> </a> 
+     <br>Pug
+    </td>
+    <td align="center" width="96">
+         <a><img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" width="40" height="40"> </a> 
+     <br>Django
+    </td>
+    <td align="center" width="96">
+         <a><img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" width="40" height="40"> </a> 
+     <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+         <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg" alt="Eclipse" width="40" height="40"> </a> 
+     <br>Eclipse
+    </td>
+    <td align="center" width="96">
+         <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Illustrator.svg" alt="Ai" width="40" height="40"> </a> 
+     <br>Ai
+    </td> 
+    <td align="center" width="96">
+         <a><img src="https://logosandtypes.com/wp-content/uploads/2022/07/openai.svg" alt="Chakra UI" width="40" height="40"> </a> 
+     <br>Open Ai
+    </td>
+    <td align="center" width="96">
+         <a><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--S9d4oIdL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x2zkntkazv4yzt0nzf9j.png" alt="Lang Chain" width="40" height="40"> </a> 
+     <br>LangChain
+    </td>
 <!--  
     <td align="center" width="96">
          <a><img src="" alt="Chakra UI" width="40" height="40"> </a> 
