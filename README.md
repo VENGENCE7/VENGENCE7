@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **AI and ML with Open Ai apis and Lang chain.**
 
-- 🌱 I’m currently learning **AWS,Smart contracts,IPFS and Chakra UI**
+- 🌱 I’m currently learning **GCP,Go,FF-MPEG and Chakra UI**
 
-- 👯 I’m looking to collaborate on **projects and developing Dapps.**
+- 👯 I’m looking to collaborate on **projects with Ai integrated models.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VENGENCE7](https://github.com/VENGENCE7)
 
-- 💬 Ask me about **CRED,Blockchain,SQL,development in Java,node JS & Python.**
+- 💬 Ask me about **CyberSecurity,Linux,Blockchain,development in Java,node JS & Python.**
 
 - 📫 How to reach me **bhavish007anand@gmail.com**
 
