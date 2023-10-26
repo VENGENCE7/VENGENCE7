@@ -18,7 +18,14 @@
 
 - 📫 How to reach me **bhavish007anand@gmail.com**
 
-- ⚡ **Fun and chilling guy who loves to read & listen about spirituality,life journeys,geo-politics,bio-tech,history,mythologies and space science.**
+- ⚡ **Fun and chilling guy who loves to read & listen about** : 
+    - spirituality
+    - life journeys
+    - geo-politics
+    - bio-tech
+    - history
+    - mythologies
+    - space science
 
 <br/>
 
