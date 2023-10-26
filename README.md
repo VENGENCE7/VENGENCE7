@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=dank+mono&color=77D970&lines=Hi,+There!+👋;I'm+Bhavish....;Nice+to+meet+you!&center=true&size=35">
 </h1>
 
-<h2 align="center">Full Stack Developer</h2>
+<h2 align="center">Software Engineer</h2>
 
 ![ViewBadge](https://komarev.com/ghpvc/?username=vengence7&color=blueviolet&style=for-the-badge)
 
