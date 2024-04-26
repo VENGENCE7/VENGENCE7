@@ -6,15 +6,15 @@
 
 ![ViewBadge](https://komarev.com/ghpvc/?username=vengence7&color=blueviolet&style=for-the-badge)
 
-- 🔭 I’m currently working on **AI and ML with Open Ai apis and Lang chain.**
+- 🔭 I’m currently working on **AI and ML, Open Ai apis and Lang chain.**
 
-- 🌱 I’m currently learning **GCP,Go,FF-MPEG and Chakra UI**
+- 🌱 I’m currently learning **Microservices and Nest JS**
 
 - 👯 I’m looking to collaborate on **projects with Ai integrated models.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VENGENCE7](https://github.com/VENGENCE7)
 
-- 💬 Ask me about **CyberSecurity,Linux,Blockchain,development in Java,node JS & Python.**
+- 💬 Ask me about **CyberSecurity, Linux, Blockchain, development in Java, Node JS & Python.**
 
 - 📫 How to reach me **bhavish007anand@gmail.com**
 
@@ -237,7 +237,7 @@
      <br>Open Ai
     </td>
     <td align="center" width="96">
-         <a><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--S9d4oIdL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x2zkntkazv4yzt0nzf9j.png" alt="Lang Chain" width="40" height="40"> </a> 
+         <a><img src="https://devblogs.microsoft.com/azure-sql/wp-content/uploads/sites/56/2024/02/langchain.png" alt="Lang Chain" width="40" height="40"> </a> 
      <br>LangChain
     </td>
 <!--  
