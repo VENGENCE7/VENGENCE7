@@ -259,7 +259,7 @@
 
 <div align=center>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vengence7&theme=vision-friendly-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vengence7&theme=vision-friendly-dark&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500)](https://git.io/streak-stats)
 <br><br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vengence7&theme=vision_friendly_dark)
 <br><br>
