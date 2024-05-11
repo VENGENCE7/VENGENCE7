@@ -3,6 +3,11 @@
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=395&height=29&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="hello nice to meet you svg" />
 </div>
 -->
+
+<p align="center">
+    <img loading="lazy" src="https://github-widgetbox.vercel.app/api/profile?username=vengence7&data=followers,repositories,stars,commits&theme=rgb">
+</p>
+
 <h1 align="center">
     <img loading="lazy" src="https://readme-typing-svg.herokuapp.com?font=dank+mono&color=77D970&lines=Hey,+There!+👋;I'm+Bhavish....;Nice+to+meet+you!&center=true&size=35&font=Anton&weight=600&duration=2500&pause=1">
 </h1>
