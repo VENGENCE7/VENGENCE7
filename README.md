@@ -275,7 +275,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vengence7&theme=vision_friendly_dark&include_all_commits=true&count_private=true)
 <img loading="lazy" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vengence7&theme=vision_friendly_dark&utcOffset=5.3" height=200 style="max-width: 100%; padding: 3%;"/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vengence7&theme=vision_friendly_dark&include_all_commits=true&count_private=true)
+<img loading="lazy" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vengence7&theme=vision_friendly_dark&include_all_commits=true&count_private=true" height=200 style="max-width: 100%; padding: 3%;"/>
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vengence7&theme=vision_friendly_dark&include_all_commits=true&count_private=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vengence7&theme=vision_friendly_darkinclude_all_commits=true&count_private=true)
