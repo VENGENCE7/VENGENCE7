@@ -40,7 +40,7 @@
 
 - 👯 I’m looking to collaborate on **projects with Ai integrated models.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VENGENCE7](https://github.com/VENGENCE7)
+- 👨‍💻 All of my projects are available at [https://github.com/vengence7](https://github.com/vengence7)
 
 - 💬 Ask me about **CyberSecurity, Linux, Blockchain, development in Java, Node JS & Python.**
 
