@@ -283,7 +283,7 @@
 <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vengence7&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height=200 style="max-width: 100%; padding: 3%;"/>
 <br><br>
 ![](https://github-trophies.vercel.app/?username=vengence7&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-![](https://github-readme-activity-graph-mnex.vercel.app/graph?username=VENGENCE7&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=false)
+![](https://github-readme-activity-graph-mnex.vercel.app/graph?username=vengence7&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=false)
 
 </div>
 </p>
