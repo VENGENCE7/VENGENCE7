@@ -34,30 +34,28 @@
 
 ![ViewBadge](https://komarev.com/ghpvc/?username=vengence7&color=blueviolet&style=for-the-badge)
 
-- 🔭 I’m currently working on **Nest JS, Open Ai apis and Lang chain.**
+- 🔭 **Exploring the Future:** Currently diving deep into NestJS, OpenAI APIs, and LangChain.
 
-- 🌱 I’m currently learning **Microservices and Nest JS**
+- 🌱 **On a Learning Journey:** Mastering Microservices and perfecting NestJS.
 
-- 👯 I’m looking to collaborate on **projects with Ai integrated models.**
+- 👯 **Collaborate with Me:** Eager to work on projects with AI-integrated models. Let's create something amazing together!
 
-- 👨‍💻 All of my projects are available at [https://github.com/vengence7](https://github.com/vengence7)
+- 👨‍💻 **My Code Playground:** Discover all my projects at GitHub.
 
-- 💬 Ask me about **CyberSecurity, Linux, Blockchain, development in Java, Node JS & Python.**
+- 💬 **Ask Me Anything:** CyberSecurity, Linux, Blockchain, and development in Java, Node.js, & Python. I’ve got you covered!
 
-- 📫 How to reach me **bhavish007anand@gmail.com**
+- 📫 **Get in Touch:** Reach out at bhavish007anand@gmail.com.
 
-- ⚡ **Fun and chilling guy who loves to read & listen about** : 
-    - spirituality
-    - life journeys
-    - geo-politics
-    - bio-tech
-    - history
-    - mythologies
-    - space science
+- ⚡ **Beyond the Code:** A fun and laid-back guy who loves to read and listen about:
+    
+    - 🌌 Spirituality & Life Journeys
+    
+    - 🌍 Geo-Politics & Bio-Tech
+    
+    - 📜 History & Mytholog
 
 <br/>
-
-<hr>
+<br/>
 <h2 align="center">🔥 Languages, Frameworks, Tools & Tech I Have Worked With 🔥</h2>
 <br/>
 
