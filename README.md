@@ -34,7 +34,7 @@
 
 ![ViewBadge](https://komarev.com/ghpvc/?username=vengence7&color=blueviolet&style=for-the-badge)
 
-- 🔭 I’m currently working on **AI and ML, Open Ai apis and Lang chain.**
+- 🔭 I’m currently working on **Nest JS, Open Ai apis and Lang chain.**
 
 - 🌱 I’m currently learning **Microservices and Nest JS**
 
