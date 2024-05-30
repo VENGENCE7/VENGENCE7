@@ -156,7 +156,7 @@
      <br>TypeScript
     </td> 
     <td align="center" width="96">
-      <a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img loading="lazy" src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" alt="ECMAScript 6" width="40" height="40"></a>
+      <a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img loading="lazy" src="https://miro.medium.com/v2/resize:fit:382/1*cXyybmSg_IG_vVvuYpQ2-Q.png" alt="ECMAScript 6" width="40" height="40"></a>
      <br> ES6
     </td> 
      <td align="center" width="96">
