@@ -283,7 +283,8 @@
 ![](https://github-trophies.vercel.app/?username=vengence7&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 ![](https://github-readme-activity-graph-mnex.vercel.app/graph?username=vengence7&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=false)
 
-</div>
+<img loading="lazy" src="https://github.com/VENGENCE7/VENGENCE7/assets/86911386/2c3f4dfe-6808-482f-9a91-a353b4d748ee" style="max-width: 100%; padding: 3%;"/>
+
 </p>
 
 
