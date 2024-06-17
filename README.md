@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-    <img loading="lazy" src="https://github-widgetbox.vercel.app/api/profile?username=vengence7&data=followers,repositories,stars,commits&theme=rgb">
+    <img loading="lazy" src="https://github-widgetbox.vercel.app/api/profile?username=VENGENCE7&data=followers,repositories,stars,commits&theme=rgb">
 </p>
 
 <h1 align="center">
@@ -32,7 +32,7 @@
 
 <br/>
 
-![ViewBadge](https://komarev.com/ghpvc/?username=vengence7&color=blueviolet&style=for-the-badge)
+![ViewBadge](https://komarev.com/ghpvc/?username=VENGENCE7&color=blueviolet&style=for-the-badge)
 
 - 🔭 **Exploring the Future:** Currently diving deep into NestJS, OpenAI APIs, and LangChain.
 
@@ -268,20 +268,20 @@
 
 <div align=center>
 
-<img loading="lazy" src="https://streak-stats.demolab.com/?user=vengence7&theme=vision-friendly-dark&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500" height=200 style="max-width: 100%; padding: 3%;"/>
-<img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=vengence7&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&card_width=500" height=200 style="max-width: 100%; padding: 3%;"/>
+<img loading="lazy" src="https://streak-stats.demolab.com/?user=VENGENCE7&theme=vision-friendly-dark&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500" height=200 style="max-width: 100%; padding: 3%;"/>
+<img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=VENGENCE7&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&card_width=500" height=200 style="max-width: 100%; padding: 3%;"/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vengence7&theme=vision_friendly_dark&include_all_commits=true&count_private=true)
-<img loading="lazy" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vengence7&theme=vision_friendly_dark&utcOffset=5.3" height=200 style="max-width: 100%; padding: 3%;"/>
-<img loading="lazy" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vengence7&theme=vision_friendly_dark&include_all_commits=true&count_private=true" height=200 style="max-width: 100%; padding: 3%;"/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VENGENCE7&theme=vision_friendly_dark&include_all_commits=true&count_private=true)
+<img loading="lazy" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VENGENCE7&theme=vision_friendly_dark&utcOffset=5.3" height=200 style="max-width: 100%; padding: 3%;"/>
+<img loading="lazy" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VENGENCE7&theme=vision_friendly_dark&include_all_commits=true&count_private=true" height=200 style="max-width: 100%; padding: 3%;"/>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vengence7&theme=vision_friendly_dark&include_all_commits=true&count_private=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vengence7&theme=vision_friendly_darkinclude_all_commits=true&count_private=true)
-<img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vengence7&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height=200 style="max-width: 100%; padding: 3%;"/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VENGENCE7&theme=vision_friendly_dark&include_all_commits=true&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VENGENCE7&theme=vision_friendly_darkinclude_all_commits=true&count_private=true)
+<img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VENGENCE7&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height=200 style="max-width: 100%; padding: 3%;"/>
 <br><br>
-![](https://github-trophies.vercel.app/?username=vengence7&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-![](https://github-readme-activity-graph-mnex.vercel.app/graph?username=vengence7&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=false)
+![](https://github-trophies.vercel.app/?username=VENGENCE7&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-readme-activity-graph-mnex.vercel.app/graph?username=VENGENCE7&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=false)
 
 <img loading="lazy" src="https://github.com/VENGENCE7/VENGENCE7/assets/86911386/2c3f4dfe-6808-482f-9a91-a353b4d748ee" style="max-width: 100%; padding: 3%;"/>
 
