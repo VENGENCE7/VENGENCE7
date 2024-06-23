@@ -7,7 +7,7 @@
 
 <p align="center" dir="auto">
     <!-- %F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82 -Old Greetings -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&amp;size=40&amp;color=%4447e3&amp;height=67&amp;duration=3000&amp;center=true&amp;lines=!!%20GREETINGS%20!!" style="max-width: 100%;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%4447e3&height=65&center=true&lines=!!%20GREETINGS%20!!&weight=600&duration=2500&pause=1" style="max-width: 100%;">
 </p>
 
 <p align="center" dir="auto">
@@ -19,7 +19,7 @@
 </p>
 
 <h1 align="center">
-    <img loading="lazy" src="https://readme-typing-svg.herokuapp.com?font=dank+mono&color=77D970&lines=Hey,+There!+👋;I'm+Bhavish....;Nice+to+meet+you!&center=true&size=35&font=Anton&weight=600&duration=2500&pause=1">
+    <img loading="lazy" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%4447e3&lines=I'm+Bhavish....;Nice+to+meet+you+!!&center=true&size=35&weight=600&duration=2500&pause=1">
 </h1>
 
 <h2 align="center">Software Engineer</h2>
