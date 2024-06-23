@@ -5,6 +5,8 @@
 -->
 
 <p align="center">
+    <img loading="lazy" src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/>
+    <br>
     <img loading="lazy" src="https://github-widgetbox.vercel.app/api/profile?username=VENGENCE7&data=followers,repositories,stars,commits&theme=rgb">
 </p>
 
@@ -56,6 +58,24 @@
 
 <br/>
 <br/>
+
+****
+<h2 align="center">
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> 
+    Code Cycle
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />
+</h2>
+
+<br>
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+</p>
+
+
 <h2 align="center">🔥 Languages, Frameworks, Tools & Tech I Have Worked With 🔥</h2>
 <br/>
 
@@ -291,7 +311,5 @@
 
 </p>
 
-
 <!--🦶FOOTER--> 
 <img loading="lazy" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
-    
