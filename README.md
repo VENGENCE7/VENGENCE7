@@ -3,10 +3,9 @@
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=395&height=29&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="hello nice to meet you svg" />
 </div>
 -->
+![header](https://github.com/VENGENCE7/VENGENCE7/assets/86911386/6df6e8fc-c0fe-4fb7-b2bd-e7ba88ddb3c7)
 
 <p align="center">
-    <img loading="lazy" src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/>
-    <br>
     <img loading="lazy" src="https://github-widgetbox.vercel.app/api/profile?username=VENGENCE7&data=followers,repositories,stars,commits&theme=rgb">
 </p>
 
