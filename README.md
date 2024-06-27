@@ -313,7 +313,7 @@
 <!-- Trophies -->
 ![](https://github-trophies.vercel.app/?username=vengence7&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 <!-- Commit Graph Stats -->
-![](https://github-readme-activity-graph-mnex.vercel.app/graph?username=vengence7&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=false)
+![](https://github-readme-activity-graph-mnex.vercel.app/graph?username=VENGENCE7&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=false)
 
 </p>
 
