@@ -3,7 +3,7 @@
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=395&height=29&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="hello nice to meet you svg" />
 </div>
 -->
-![header](https://github.com/VENGENCE7/VENGENCE7/assets/86911386/6df6e8fc-c0fe-4fb7-b2bd-e7ba88ddb3c7)
+![header](https://github.com/vengence7/vengence7/assets/86911386/6df6e8fc-c0fe-4fb7-b2bd-e7ba88ddb3c7)
 
 <p align="center" dir="auto">
     <!-- %F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82 -Old Greetings -->
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-    <img loading="lazy" src="https://github-widgetbox.vercel.app/api/profile?username=VENGENCE7&data=followers,repositories,stars,commits&theme=rgb">
+    <img loading="lazy" src="https://github-widgetbox.vercel.app/api/profile?username=vengence7&data=followers,repositories,stars,commits&theme=rgb">
 </p>
 
 <h1 align="center">
@@ -42,7 +42,7 @@
 
 <br/>
 
-![ViewBadge](https://komarev.com/ghpvc/?username=VENGENCE7&color=blueviolet&style=for-the-badge)
+![ViewBadge](https://komarev.com/ghpvc/?username=vengence7&color=blueviolet&style=for-the-badge)
 
 - 🔭 **Exploring the Future:** Currently diving deep into NestJS, OpenAI APIs, and LangChain.
 
@@ -297,23 +297,23 @@
 <div align=center>
 
 <!-- Contributions and Streaks-->
-<img loading="lazy" src="https://streak-stats.demolab.com/?user=VENGENCE7&theme=vision-friendly-dark&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500" height=200 style="max-width: 100%; padding: 3%;"/>
+<img loading="lazy" src="https://streak-stats.demolab.com/?user=vengence7&theme=vision-friendly-dark&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500" height=200 style="max-width: 100%; padding: 3%;"/>
 <!-- Profile Stats -->
-<img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=VENGENCE7&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&card_width=500" height=200 style="max-width: 100%; padding: 3%;"/>
+<img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=vengence7&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&card_width=500" height=200 style="max-width: 100%; padding: 3%;"/>
 
 <!-- Commit Stats -->
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VENGENCE7&theme=vision_friendly_dark&include_all_commits=true&count_private=true)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vengence7&theme=vision_friendly_dark&include_all_commits=true&count_private=true)
 
 <!-- Language Stats -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VENGENCE7&theme=vision_friendly_dark&include_all_commits=true&count_private=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VENGENCE7&theme=vision_friendly_darkinclude_all_commits=true&count_private=true)
-<img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VENGENCE7&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height=200 style="max-width: 100%; padding: 3%;"/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vengence7&theme=vision_friendly_dark&include_all_commits=true&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vengence7&theme=vision_friendly_darkinclude_all_commits=true&count_private=true)
+<img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vengence7&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height=200 style="max-width: 100%; padding: 3%;"/>
 <br><br>
 
 <!-- Trophies -->
-![](https://github-trophies.vercel.app/?username=VENGENCE7&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=vengence7&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 <!-- Commit Graph Stats -->
-![](https://github-readme-activity-graph-mnex.vercel.app/graph?username=VENGENCE7&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=false)
+![](https://github-readme-activity-graph-mnex.vercel.app/graph?username=vengence7&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=false)
 
 </p>
 
