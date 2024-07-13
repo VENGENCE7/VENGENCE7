@@ -3,7 +3,7 @@
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=395&height=29&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="hello nice to meet you svg" />
 </div>
 -->
-![header](https://github.com/VENGENCE7/VENGENCE7/assets/86911386/6df6e8fc-c0fe-4fb7-b2bd-e7ba88ddb3c7)
+![header](https://github.com/vengence7/VENGENCE7/assets/86911386/6df6e8fc-c0fe-4fb7-b2bd-e7ba88ddb3c7)
 
 <p align="center" dir="auto">
     <!-- %F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82 -Old Greetings -->
